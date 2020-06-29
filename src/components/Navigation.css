@@ -13,7 +13,7 @@
     border-radius: 5px;
 }
 
-@media screen and(max-width: 1090px) {
+@media screen and (max-width: 1090px) {
     .nav {
         left: initial;
         top: initial;
@@ -29,8 +29,9 @@
     font-size: 12px;
     text-align: center;
     font-weight: 600;
-}
-
-.nav a:not(:last-child) {
+  }
+  
+  .nav a:not(:last-child) {
     margin-bottom: 20px;
-}
+  }
+  
