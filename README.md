@@ -1,4 +1,4 @@
-# Movie app
+# Movie app (2020.06)
 
 ### Preview
 -   https://pro4697.github.io/movie_app_2020/#/
